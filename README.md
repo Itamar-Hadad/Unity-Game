@@ -1,7 +1,6 @@
 # 🧙‍♂️ Medieval Adventure – Unity Game Demo
 
-A 3D adventure game demo developed in **Unity** as part of the  
-**Game Development course** at **Afeka Tel Aviv Academic College of Engineering**.
+A 3D adventure game demo developed in **Unity** as part of the **Game Development course** at **Afeka Tel Aviv Academic College of Engineering**.
 
 The game takes the player on a journey through a medieval fantasy world, focusing on exploration, interaction, scene transitions, item collection, and light combat mechanics.
 
