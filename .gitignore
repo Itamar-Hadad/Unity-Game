@@ -1,0 +1,21 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+.idea/
+.vs/
+.vscode/
+.vsconfig
+
+*.csproj
+*.sln
+
+
+.DS_Store
+
+Assets/NPC/Morak/Ch05_nonPBR@Sitting Gun Motion.fbx
+Assets/NPC/Morak/Ch05_nonPBR@Sitting Gun Motion.fbx.meta
+
