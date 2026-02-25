@@ -62,4 +62,4 @@ B.Sc. Computer Science Student
 Afeka Tel Aviv Academic College of Engineering  
 
 📧 Email: hzitamar4@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/itamar-hadad
+🔗 LinkedIn: [https://www.linkedin.com/in/itamar-hadad](https://www.linkedin.com/in/itamar-hadad-1aa946307/)
